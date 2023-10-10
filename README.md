@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Hosted Link
-Link:- https://edviron-crm-dashbord.vercel.app/
+Link:- https://edvironwork-p2jgbhfx7-aloks-projects-c3312a07.vercel.app/
 
 ## Github Link
 Link :- https://github.com/alokalok10/Edvironwork.git
